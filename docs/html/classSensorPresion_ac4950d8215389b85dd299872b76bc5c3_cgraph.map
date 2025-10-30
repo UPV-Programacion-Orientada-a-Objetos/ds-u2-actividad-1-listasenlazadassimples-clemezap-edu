@@ -1,0 +1,8 @@
+<map id="SensorPresion::registrarLectura" name="SensorPresion::registrarLectura">
+<area shape="rect" id="Node000001" title="Registra una nueva lectura de presión." alt="" coords="5,23,183,63"/>
+<area shape="rect" id="Node000002" href="$classListaSensor.html#addc18bbdb7f6a09824a9afb7935ec0d6" title="Inserta un elemento al final de la lista." alt="" coords="231,5,385,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,30,216,26,217,31,183,35"/>
+<area shape="rect" id="Node000003" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title="Constructor del nodo." alt="" coords="433,31,532,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="183,41,419,41,419,46,183,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,27,420,32,420,37,385,32"/>
+</map>

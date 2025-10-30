@@ -1,0 +1,5 @@
+<map id="SistemaGestion::mostrarTodosSensores" name="SistemaGestion::mostrarTodosSensores">
+<area shape="rect" id="Node000001" title="Muestra información de todos los sensores registrados." alt="" coords="5,5,227,45"/>
+<area shape="rect" id="Node000002" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title="Constructor del nodo." alt="" coords="275,13,373,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,23,261,23,261,28,227,28"/>
+</map>

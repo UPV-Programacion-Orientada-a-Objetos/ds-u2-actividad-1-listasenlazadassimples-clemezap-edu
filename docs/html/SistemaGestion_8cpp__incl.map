@@ -1,0 +1,11 @@
+<map id="src/SistemaGestion.cpp" name="src/SistemaGestion.cpp">
+<area shape="rect" id="Node000001" title="Implementación del sistema de gestión polimórfica." alt="" coords="120,5,295,31"/>
+<area shape="rect" id="Node000002" href="$SistemaGestion_8h.html" title="Sistema de gestión polimórfica de sensores." alt="" coords="5,79,143,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,33,109,74,107,70,185,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="167,79,247,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,31,210,65,205,65,205,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="271,79,338,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,29,279,68,276,72,221,33"/>
+<area shape="rect" id="Node000003" href="$SensorBase_8h.html" title="Clase base abstracta para todos los sensores del sistema IoT." alt="" coords="19,152,129,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,104,77,138,71,138,71,104"/>
+</map>

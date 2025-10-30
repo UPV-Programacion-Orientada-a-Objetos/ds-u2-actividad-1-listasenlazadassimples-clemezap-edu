@@ -1,0 +1,7 @@
+<map id="ListaSensor&lt; T &gt;" name="ListaSensor&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Lista Enlazada Simple Genérica para gestionar lecturas de sensores." alt="" coords="97,5,231,31"/>
+<area shape="rect" id="Node000002" href="$classListaSensor.html" title=" " alt="" coords="5,93,149,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,42,91,95,88,91,141,38"/>
+<area shape="rect" id="Node000003" href="$classListaSensor.html" title=" " alt="" coords="174,93,330,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,38,242,91,238,95,184,42"/>
+</map>

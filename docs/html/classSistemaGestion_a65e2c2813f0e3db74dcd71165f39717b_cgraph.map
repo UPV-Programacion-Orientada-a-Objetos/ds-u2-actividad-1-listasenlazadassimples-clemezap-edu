@@ -1,0 +1,7 @@
+<map id="SistemaGestion::agregarSensor" name="SistemaGestion::agregarSensor">
+<area shape="rect" id="Node000001" title="Agrega un sensor al sistema de gestión." alt="" coords="5,31,232,56"/>
+<area shape="rect" id="Node000002" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title="Constructor del nodo." alt="" coords="335,5,433,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,30,321,21,321,27,232,35"/>
+<area shape="rect" id="Node000003" href="$classSensorBase.html#adb19329ba35a359c664b66575aab7552" title="Obtiene el nombre del sensor." alt="" coords="280,55,488,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,51,266,54,266,59,232,56"/>
+</map>

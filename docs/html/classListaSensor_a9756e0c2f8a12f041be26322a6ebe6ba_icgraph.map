@@ -1,0 +1,5 @@
+<map id="ListaSensor::copiarNodos" name="ListaSensor::copiarNodos">
+<area shape="rect" id="Node000001" title="Copia los nodos de otra lista (método auxiliar)" alt="" coords="233,5,420,31"/>
+<area shape="rect" id="Node000002" href="$classListaSensor.html#afca3f1611cff1e5a9a889c9c15e7e943" title="Constructor de copia (Regla de los Tres)" alt="" coords="5,5,185,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,21,186,21,186,15,219,15"/>
+</map>

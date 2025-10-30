@@ -1,0 +1,14 @@
+<map id="SensorTemperatura" name="SensorTemperatura">
+<area shape="rect" id="Node000001" title="Sensor especializado en lecturas de temperatura (punto flotante)" alt="" coords="17,269,165,295"/>
+<area shape="rect" id="Node000002" href="$classSensorBase.html" title="Clase abstracta que define la interfaz para todos los sensores." alt="" coords="20,181,119,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,219,90,268,85,269,73,221"/>
+<area shape="rect" id="Node000003" href="$classListaSensor.html" title=" " alt="" coords="143,181,299,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,216,110,271,107,267,191,212"/>
+<area shape="rect" id="Node000004" href="$structNodo.html" title=" " alt="" coords="5,93,120,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,123,201,179,199,183,95,128"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="135,97,147,106,138,114,120,116,120,111,136,109,141,106,132,102"/>
+<area shape="rect" id="Node000005" href="$structNodo.html" title="Estructura de nodo genérico para lista enlazada." alt="" coords="15,5,110,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="65,45,65,93,60,93,60,45"/>
+<area shape="rect" id="Node000006" href="$classListaSensor.html" title="Lista Enlazada Simple Genérica para gestionar lecturas de sensores." alt="" coords="234,93,369,119"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="283,131,234,183,231,179,279,127"/>
+</map>

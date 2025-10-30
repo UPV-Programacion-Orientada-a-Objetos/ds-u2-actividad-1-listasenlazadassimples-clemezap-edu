@@ -1,0 +1,14 @@
+<map id="SensorPresion" name="SensorPresion">
+<area shape="rect" id="Node000001" title="Sensor especializado en lecturas de presión (entero)" alt="" coords="54,269,169,295"/>
+<area shape="rect" id="Node000002" href="$classSensorBase.html" title="Clase abstracta que define la interfaz para todos los sensores." alt="" coords="15,181,114,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,217,107,268,103,270,75,220"/>
+<area shape="rect" id="Node000003" href="$classListaSensor.html" title=" " alt="" coords="138,181,282,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,218,127,271,123,267,185,214"/>
+<area shape="rect" id="Node000004" href="$structNodo.html" title=" " alt="" coords="5,93,108,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,123,190,179,188,183,88,128"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="123,97,135,106,126,114,108,117,108,111,124,109,129,106,120,102"/>
+<area shape="rect" id="Node000005" href="$structNodo.html" title="Estructura de nodo genérico para lista enlazada." alt="" coords="9,5,104,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="59,45,59,93,54,93,54,45"/>
+<area shape="rect" id="Node000006" href="$classListaSensor.html" title="Lista Enlazada Simple Genérica para gestionar lecturas de sensores." alt="" coords="221,93,356,119"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="271,131,223,183,219,179,267,127"/>
+</map>

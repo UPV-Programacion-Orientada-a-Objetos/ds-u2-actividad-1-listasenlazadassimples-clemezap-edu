@@ -1,0 +1,7 @@
+/home/clemezap/Documentos/EstructuraDatos/ds-u2-actividad-1-listasenlazadassimples-clemezap-edu/build/CMakeFiles/sistema_iot.dir
+/home/clemezap/Documentos/EstructuraDatos/ds-u2-actividad-1-listasenlazadassimples-clemezap-edu/build/CMakeFiles/edit_cache.dir
+/home/clemezap/Documentos/EstructuraDatos/ds-u2-actividad-1-listasenlazadassimples-clemezap-edu/build/CMakeFiles/rebuild_cache.dir
+/home/clemezap/Documentos/EstructuraDatos/ds-u2-actividad-1-listasenlazadassimples-clemezap-edu/build/CMakeFiles/list_install_components.dir
+/home/clemezap/Documentos/EstructuraDatos/ds-u2-actividad-1-listasenlazadassimples-clemezap-edu/build/CMakeFiles/install.dir
+/home/clemezap/Documentos/EstructuraDatos/ds-u2-actividad-1-listasenlazadassimples-clemezap-edu/build/CMakeFiles/install/local.dir
+/home/clemezap/Documentos/EstructuraDatos/ds-u2-actividad-1-listasenlazadassimples-clemezap-edu/build/CMakeFiles/install/strip.dir

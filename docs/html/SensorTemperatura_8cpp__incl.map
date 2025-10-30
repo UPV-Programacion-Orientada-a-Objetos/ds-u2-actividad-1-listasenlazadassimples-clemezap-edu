@@ -1,0 +1,12 @@
+<map id="src/SensorTemperatura.cpp" name="src/SensorTemperatura.cpp">
+<area shape="rect" id="Node000001" title="Implementación del sensor de temperatura." alt="" coords="128,5,327,31"/>
+<area shape="rect" id="Node000002" href="$SensorTemperatura_8h.html" title="Clase derivada para sensores de temperatura (tipo float)" alt="" coords="89,79,249,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,33,189,70,185,67,216,29"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,225,279,251"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="238,29,252,51,263,78,267,116,262,178,252,213,247,212,257,177,262,116,258,79,247,53,234,32"/>
+<area shape="rect" id="Node000003" href="$SensorBase_8h.html" title="Clase base abstracta para todos los sensores del sistema IoT." alt="" coords="5,152,116,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,106,91,147,88,142,150,102"/>
+<area shape="rect" id="Node000004" href="$ListaSensor_8h.html" title="Implementación de Lista Enlazada Simple Genérica para sensores IoT." alt="" coords="140,152,248,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="175,103,188,138,183,140,170,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,176,227,212,222,215,199,179"/>
+</map>

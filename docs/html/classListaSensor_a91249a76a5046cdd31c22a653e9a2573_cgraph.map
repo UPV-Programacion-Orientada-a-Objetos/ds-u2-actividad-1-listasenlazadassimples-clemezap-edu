@@ -1,0 +1,5 @@
+<map id="ListaSensor::eliminarMenor" name="ListaSensor::eliminarMenor">
+<area shape="rect" id="Node000001" title="Encuentra y elimina el valor más bajo de la lista." alt="" coords="5,5,205,31"/>
+<area shape="rect" id="Node000002" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title="Constructor del nodo." alt="" coords="253,5,352,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,15,240,15,240,21,206,21"/>
+</map>

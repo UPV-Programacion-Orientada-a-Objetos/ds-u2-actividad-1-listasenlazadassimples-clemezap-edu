@@ -1,0 +1,8 @@
+<map id="SistemaGestion" name="SistemaGestion">
+<area shape="rect" id="Node000001" title="Gestor principal del sistema IoT de sensores." alt="" coords="5,181,131,207"/>
+<area shape="rect" id="Node000002" href="$structNodoGestion.html" title="Nodo para la lista de gestión polimórfica (no genérica)" alt="" coords="15,93,121,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,133,71,181,65,181,65,133"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="136,97,148,106,140,114,122,117,121,111,137,109,143,106,134,102"/>
+<area shape="rect" id="Node000003" href="$classSensorBase.html" title="Clase abstracta que define la interfaz para todos los sensores." alt="" coords="19,5,117,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,45,71,93,65,93,65,45"/>
+</map>

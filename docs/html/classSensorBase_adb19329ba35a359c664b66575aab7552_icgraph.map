@@ -1,0 +1,5 @@
+<map id="SensorBase::obtenerNombre" name="SensorBase::obtenerNombre">
+<area shape="rect" id="Node000001" title="Obtiene el nombre del sensor." alt="" coords="280,5,488,31"/>
+<area shape="rect" id="Node000002" href="$classSistemaGestion.html#a65e2c2813f0e3db74dcd71165f39717b" title="Agrega un sensor al sistema de gestión." alt="" coords="5,5,232,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,21,232,21,232,15,267,15"/>
+</map>

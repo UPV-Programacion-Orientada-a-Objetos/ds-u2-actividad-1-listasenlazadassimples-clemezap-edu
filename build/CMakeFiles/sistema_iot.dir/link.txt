@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sistema_iot.dir/src/main.cpp.o CMakeFiles/sistema_iot.dir/src/SensorBase.cpp.o CMakeFiles/sistema_iot.dir/src/SensorTemperatura.cpp.o CMakeFiles/sistema_iot.dir/src/SensorPresion.cpp.o CMakeFiles/sistema_iot.dir/src/SistemaGestion.cpp.o -o sistema_iot 

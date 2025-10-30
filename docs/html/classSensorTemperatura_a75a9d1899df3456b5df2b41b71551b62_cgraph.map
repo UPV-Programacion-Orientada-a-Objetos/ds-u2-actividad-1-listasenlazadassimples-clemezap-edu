@@ -1,0 +1,8 @@
+<map id="SensorTemperatura::registrarLectura" name="SensorTemperatura::registrarLectura">
+<area shape="rect" id="Node000001" title="Registra una nueva lectura de temperatura." alt="" coords="5,23,161,63"/>
+<area shape="rect" id="Node000002" href="$classListaSensor.html#addc18bbdb7f6a09824a9afb7935ec0d6" title="Inserta un elemento al final de la lista." alt="" coords="209,5,364,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,31,195,27,196,32,162,36"/>
+<area shape="rect" id="Node000003" href="$structNodo.html#a96da8b61d6884126bb04fced32542df9" title="Constructor del nodo." alt="" coords="412,31,511,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="162,41,398,41,398,46,162,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,27,399,32,398,37,364,32"/>
+</map>

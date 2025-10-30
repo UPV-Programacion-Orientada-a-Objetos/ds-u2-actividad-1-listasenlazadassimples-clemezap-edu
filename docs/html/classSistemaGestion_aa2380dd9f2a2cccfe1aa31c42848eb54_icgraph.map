@@ -1,0 +1,5 @@
+<map id="SistemaGestion::liberarSistema" name="SistemaGestion::liberarSistema">
+<area shape="rect" id="Node000001" title="Libera toda la memoria del sistema (llamado por el destructor)" alt="" coords="251,13,479,38"/>
+<area shape="rect" id="Node000002" href="$classSistemaGestion.html#a123d6dd7c90f37965ea972ccc88bd127" title="Destructor &#45; Libera en cascada todos los sensores y nodos." alt="" coords="5,5,203,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,28,203,28,203,23,237,23"/>
+</map>

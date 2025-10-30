@@ -1,0 +1,19 @@
+<map id="src/main.cpp" name="src/main.cpp">
+<area shape="rect" id="Node000001" title="Programa principal de demostración del sistema IoT polimórfico." alt="" coords="121,5,226,31"/>
+<area shape="rect" id="Node000002" href="$SistemaGestion_8h.html" title="Sistema de gestión polimórfica de sensores." alt="" coords="28,79,165,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,33,121,71,117,67,159,29"/>
+<area shape="rect" id="Node000004" href="$SensorTemperatura_8h.html" title="Clase derivada para sensores de temperatura (tipo float)" alt="" coords="340,79,500,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,28,368,72,367,77,213,33"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="80,225,160,251"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="121,26,93,33,64,43,38,59,17,80,9,98,9,117,15,135,27,154,58,188,93,215,89,220,55,192,22,157,10,138,4,117,4,97,13,77,35,55,62,38,91,28,120,21"/>
+<area shape="rect" id="Node000007" href="$SensorPresion_8h.html" title="Clase derivada para sensores de presión (tipo int)" alt="" coords="189,79,316,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="188,29,231,68,228,71,185,33"/>
+<area shape="rect" id="Node000003" href="$SensorBase_8h.html" title="Clase base abstracta para todos los sensores del sistema IoT." alt="" coords="130,152,241,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,102,162,141,159,145,109,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="383,107,237,151,236,145,382,101"/>
+<area shape="rect" id="Node000005" href="$ListaSensor_8h.html" title="Implementación de Lista Enlazada Simple Genérica para sensores IoT." alt="" coords="265,152,373,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="406,106,348,146,345,142,403,102"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="288,180,167,223,165,218,286,175"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="243,106,208,144,204,140,239,103"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="265,103,301,140,297,144,261,106"/>
+</map>

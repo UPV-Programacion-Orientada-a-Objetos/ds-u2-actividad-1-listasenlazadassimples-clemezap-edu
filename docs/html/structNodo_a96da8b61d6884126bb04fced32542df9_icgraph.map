@@ -1,0 +1,53 @@
+<map id="Nodo::Nodo" name="Nodo::Nodo">
+<area shape="rect" id="Node000001" title="Constructor del nodo." alt="" coords="535,573,633,599"/>
+<area shape="rect" id="Node000002" href="$classSistemaGestion.html#a65e2c2813f0e3db74dcd71165f39717b" title="Agrega un sensor al sistema de gestión." alt="" coords="255,5,482,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,560,573,448,558,292,545,213,529,142,509,83,497,61,485,44,470,33,474,29,489,40,502,58,514,81,534,140,551,212,563,292,578,448,584,559"/>
+<area shape="rect" id="Node000003" href="$classListaSensor.html#a91249a76a5046cdd31c22a653e9a2573" title="Encuentra y elimina el valor más bajo de la lista." alt="" coords="269,55,469,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="578,560,570,459,553,321,540,251,525,188,506,136,485,101,457,82,460,78,489,97,511,134,530,186,545,250,558,320,575,459,584,559"/>
+<area shape="rect" id="Node000004" href="$classSensorTemperatura.html#a36227dc500c6f8be7866cb0f396894b3" title="Implementación del procesamiento específico para temperatura." alt="" coords="26,73,182,113"/>
+<area shape="poly" id="edge16_Node000001_Node000004" title=" " alt="" coords="578,560,569,466,552,341,539,278,524,221,506,175,485,145,464,132,434,122,355,106,265,99,182,95,182,90,266,93,356,101,436,116,466,127,489,141,511,173,529,219,545,277,557,340,575,466,583,559"/>
+<area shape="rect" id="Node000005" href="$classSensorPresion.html#ad5181690dfb24946217e882606f04428" title="Implementación de impresión de información del sensor." alt="" coords="267,156,470,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="577,560,566,477,547,367,520,263,503,223,485,196,468,184,471,179,489,192,508,220,525,261,552,366,572,476,582,559"/>
+<area shape="rect" id="Node000006" href="$classSensorTemperatura.html#a95a263967c5f9a55da09be3b11c27c86" title="Implementación de impresión de información del sensor." alt="" coords="291,206,447,246"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="580,560,576,500,562,421,550,380,533,339,512,300,485,267,467,252,446,242,448,237,470,248,489,263,516,297,538,336,555,378,567,420,581,499,585,559"/>
+<area shape="rect" id="Node000007" href="$classListaSensor.html#addc18bbdb7f6a09824a9afb7935ec0d6" title="Inserta un elemento al final de la lista." alt="" coords="291,321,446,347"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="576,560,567,518,549,466,523,413,505,389,485,368,466,356,445,347,447,342,469,351,488,364,509,386,527,410,554,464,572,516,581,559"/>
+<area shape="rect" id="Node000008" href="$classSensorTemperatura.html#a75a9d1899df3456b5df2b41b71551b62" title="Registra una nueva lectura de temperatura." alt="" coords="26,282,182,322"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="580,560,576,505,562,436,550,400,534,366,512,336,485,311,449,290,410,276,368,268,326,265,243,271,173,285,172,279,243,266,326,260,369,263,411,271,451,285,488,307,516,332,538,364,555,398,567,434,581,504,585,559"/>
+<area shape="rect" id="Node000009" href="$classSensorPresion.html#ac4950d8215389b85dd299872b76bc5c3" title="Registra una nueva lectura de presión." alt="" coords="15,355,193,395"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="574,560,563,525,545,484,520,444,485,412,464,402,434,394,359,383,273,378,193,377,193,371,273,373,359,378,435,389,466,397,488,408,524,441,550,482,568,523,579,559"/>
+<area shape="rect" id="Node000010" href="$classListaSensor.html#aa57dbe9906ef12d766248270b956566d" title="Libera toda la memoria de los nodos (método auxiliar)" alt="" coords="275,423,463,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="569,563,536,510,513,484,485,462,462,450,464,445,488,457,516,480,540,507,573,560"/>
+<area shape="rect" id="Node000011" href="$classSistemaGestion.html#aa2380dd9f2a2cccfe1aa31c42848eb54" title="Libera toda la memoria del sistema (llamado por el destructor)" alt="" coords="255,472,483,497"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="556,566,524,542,486,519,432,500,434,495,488,514,527,537,559,562"/>
+<area shape="rect" id="Node000012" href="$classSistemaGestion.html#a123d6dd7c90f37965ea972ccc88bd127" title="Destructor &#45; Libera en cascada todos los sensores y nodos." alt="" coords="5,490,203,530"/>
+<area shape="poly" id="edge27_Node000001_Node000012" title=" " alt="" coords="522,573,486,565,338,540,203,523,203,518,338,535,487,559,523,567"/>
+<area shape="rect" id="Node000013" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Función principal que simula el caso de estudio completo." alt="" coords="341,573,396,599"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="521,589,396,589,396,583,521,583"/>
+<area shape="rect" id="Node000014" href="$classListaSensor.html#ae85a90201cb24deaf91831225d102c2b" title="Muestra todos los elementos de la lista." alt="" coords="291,623,447,648"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="524,605,487,614,436,625,434,620,486,609,523,600"/>
+<area shape="rect" id="Node000015" href="$classSistemaGestion.html#a4e5c40bbb73aaf47aed1f064a2360f31" title="Muestra información de todos los sensores registrados." alt="" coords="258,673,479,713"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="561,611,528,638,488,663,459,675,457,670,485,658,525,634,558,606"/>
+<area shape="rect" id="Node000016" href="$classSensorPresion.html#aff696aceb5e619529f911311a35d3c76" title="Implementación del procesamiento específico para presión." alt="" coords="255,737,482,763"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="575,613,542,671,518,701,488,727,463,740,460,735,485,722,514,698,538,668,570,610"/>
+<area shape="rect" id="Node000017" href="$classSistemaGestion.html#a99af9790a5ea840d8810dbc63285a79b" title="Ejecuta el procesamiento polimórfico de todos los sensores." alt="" coords="274,787,463,827"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="579,613,568,650,550,694,524,739,488,777,465,792,462,787,485,773,519,736,545,692,563,648,574,611"/>
+<area shape="rect" id="Node000018" href="$classSensorBase.html#a7674c56935894725090585ce565514a8" title="Constructor con nombre del sensor." alt="" coords="277,852,460,877"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="583,613,576,662,560,724,532,787,512,816,488,841,462,857,459,852,485,837,508,813,528,785,555,722,571,661,578,612"/>
+<area shape="rect" id="Node000019" href="$classSensorPresion.html#a9febd6b22421efe40ba531d5137bedfd" title="Constructor con identificador del sensor." alt="" coords="261,901,476,927"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="585,612,581,670,568,746,555,786,539,825,517,861,488,892,472,903,469,899,485,888,512,858,534,822,550,784,562,745,576,670,580,612"/>
+<area shape="rect" id="Node000020" href="$classSensorTemperatura.html#a13063a6569078d34573d3a3af703e34f" title="Constructor con identificador del sensor." alt="" coords="291,951,447,991"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="586,612,585,678,573,766,560,813,543,860,519,903,489,941,470,955,448,965,446,960,467,951,485,937,515,900,538,858,555,812,567,765,579,678,581,612"/>
+<area shape="rect" id="Node000021" href="$classSistemaGestion.html#a6b6ea5e6632737c47ba6613b82b46357" title="Constructor del sistema de gestión." alt="" coords="251,1016,487,1041"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="583,613,573,701,554,819,526,931,509,975,489,1005,471,1018,468,1014,485,1001,504,973,521,930,549,817,567,700,578,612"/>
+<area shape="rect" id="Node000022" href="$classSensorBase.html#af38b2b0e047cb4f0304fc4c204c420fa" title="Destructor virtual (crítico para polimorfismo)" alt="" coords="272,1065,465,1091"/>
+<area shape="poly" id="edge24_Node000001_Node000022" title=" " alt="" coords="584,612,575,710,558,843,545,910,530,972,511,1022,489,1056,467,1071,464,1066,485,1052,506,1019,525,970,540,909,553,842,570,709,578,612"/>
+<area shape="rect" id="Node000023" href="$classSensorPresion.html#aa82718b7990902c257ebcd0234e1ed46" title="Destructor." alt="" coords="256,1115,481,1140"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="584,613,577,720,561,868,549,943,533,1011,513,1067,489,1105,474,1117,470,1112,485,1102,508,1065,528,1010,543,942,556,867,572,720,579,613"/>
+<area shape="rect" id="Node000024" href="$classSensorTemperatura.html#aaeb0f7948069eb57dc05170414c47b12" title="Destructor." alt="" coords="289,1165,448,1205"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="585,613,578,728,563,890,551,973,535,1049,514,1111,502,1136,489,1154,471,1169,450,1179,447,1174,468,1165,485,1151,498,1133,509,1109,529,1048,545,972,558,890,573,728,579,612"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="255,81,183,88,182,83,255,76"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="277,326,182,314,182,309,278,320"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="278,351,193,364,192,359,278,345"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="241,500,203,503,202,498,241,494"/>
+</map>

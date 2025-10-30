@@ -1,0 +1,49 @@
+# ======================================
+#  Doxyfile para Sistema de Sensores IoT
+# ======================================
+
+# --- Información del proyecto ---
+PROJECT_NAME           = "Sistema Polimórfico de Sensores IoT"
+PROJECT_BRIEF          = "Documentación generada automáticamente con Doxygen."
+OUTPUT_DIRECTORY       = ./docs
+CREATE_SUBDIRS         = NO
+OUTPUT_LANGUAGE        = Spanish
+OPTIMIZE_OUTPUT_FOR_C  = NO
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+EXTRACT_ANON_NSPACES   = YES
+EXTRACT_PACKAGE        = YES
+JAVADOC_AUTOBRIEF      = YES
+
+# --- Archivos de entrada ---
+INPUT                  = ./include ./src ./main.cpp
+FILE_PATTERNS          = *.cpp *.h *.hpp *.md
+RECURSIVE              = YES
+EXCLUDE_PATTERNS       = */CMakeFiles/* */build/*
+
+# --- Documentación de Markdown ---
+USE_MDFILE_AS_MAINPAGE = README.md
+MARKDOWN_SUPPORT       = YES
+
+# --- Gráficos y diagramas ---
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+CLASS_DIAGRAMS         = YES
+DOT_IMAGE_FORMAT       = svg
+INTERACTIVE_SVG        = YES
+DOT_PATH               =
+DOT_TRANSPARENT        = YES
+DOT_MULTI_TARGETS      = YES
+TEMPLATE_RELATIONS     = YES
+
+# --- Formato de salida ---
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+GENERATE_XML           = NO
+HTML_OUTPUT            = html
+HTML_COLORSTYLE_HUE    = 220
+HTML_COLORSTYLE_SAT    = 80
+HTML_COLORSTYLE_GAMMA  = 90
