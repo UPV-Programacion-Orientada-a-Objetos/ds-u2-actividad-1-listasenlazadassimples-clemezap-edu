@@ -29,3 +29,4 @@ El proyecto está configurado para ser gestionado y distribuido mediante CMake, 
 ![Captura 1](./img/cap1.png)
 ![Captura 2](./img/cap2.png)
 ![Captura 3](./img/cap3.png)
+![Captura 4](./img/cap4.png)
